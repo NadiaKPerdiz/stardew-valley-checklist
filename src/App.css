@@ -1,0 +1,21 @@
+body {
+    padding: 50px;
+    background-color: #000000;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.general {
+    display: flex;
+    flex-direction: column;
+}
+
+.triple {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
